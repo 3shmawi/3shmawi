@@ -1,6 +1,6 @@
 [![MasterHead](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/Ashmaawy/)
 <h1 align="center">Hi 👋, I'm Mohamed Ashmawi</h1>
-<h3 align="center">A passionate Mobile Application developer from Egypt</h3>
+<h3 align="center">A Mobile Applications Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://firebase.blog/img/gifs/sparky-dash-high-five.gif">
 
 
