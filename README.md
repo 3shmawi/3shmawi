@@ -1,6 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMrydZzZBsm3WGjxwRcHcdHxe9FDnFCoq2Q&usqp=CAU))](https://rishavchanda.io)
+[![MasterHead](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/Ashmaawy/)
 <h1 align="center">Hi 👋, I'm Mohamed Ashmawi</h1>
-<h3 align="center">A passionate Mobile Application developer</h3>
+<h3 align="center">A passionate Mobile Application developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://firebase.blog/img/gifs/sparky-dash-high-five.gif">
 
 
