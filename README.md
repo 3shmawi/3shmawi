@@ -1,7 +1,7 @@
-[![MasterHead](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/Ashmaawy/)
+<img align="right" alt="Coding" width="100%" height="300" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Ashmawi</h1>
 <h3 align="center">A Mobile Applications Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://firebase.blog/img/gifs/sparky-dash-high-five.gif">
+<img align="right" alt="Coding" width="350" src="https://firebase.blog/img/gifs/sparky-dash-high-five.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmaawy&label=Profile%20views&color=0e75b6&style=flat" alt="ashmaawy" /> </p>
