@@ -38,17 +38,17 @@ Let's connect and embark on this exciting journey of mobile app development toge
 
 <p align="left"> <a href="https://twitter.com/mohamed17925082" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed17925082?logo=twitter&style=for-the-badge" alt="mohamed17925082" /></a> </p>
 
-- 🔭 I’m currently working on [Novels-App](https://github.com/Ashmaawy/Novels-App)
+- 🔭 I’m currently working on [روايتي](https://github.com/3shmawi/Novels-App)
 
 - 🌱 I’m currently learning **Unit testing & Integration testing & Animation & Advanced Design Patterns...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashmaawy](https://github.com/Ashmaawy?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/3shmawi?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-ashmawy1](https://www.linkedin.com/in/mohamed-ashmawy1)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mohamed-ashmawy1)
 
-- 💬 Ask me about **Flutter & Dart**
+- 💬 Ask me about **Flutter & Dart & Firebase & Restful Api**
 
-- 📫 How to reach me **mohamedashmawy918@gmail.com**
+- 📫 How to reach me [gmail](mohamedashmawy918@gmail.com)
 
 - ⚡ Fun fact **I think i am funny**
 
