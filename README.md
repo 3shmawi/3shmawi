@@ -5,9 +5,13 @@
 <img align="right" alt="Coding" width="350" src="https://firebase.blog/img/gifs/sparky-dash-high-five.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3shmawi&label=Profile%20views&color=0e75b6&style=flat" alt="ashmaawy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3shmawi&label=Profile%20views&color=0e75b6&style=flat" alt="3shmawi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamed17925082" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed17925082?logo=twitter&style=for-the-badge" alt="mohamed17925082" /></a> </p>
+<p align="left">
+  <a href="https://github.com/3shmawi" target="blank">
+    <img src="https://img.shields.io/github/followers/3shmawi?logo=github&style=for-the-badge" alt="3shmawi" />
+  </a>
+</p>
 
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/3shmawiii/)
@@ -23,8 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3shmawi&show_icons=true&locale=en&layout=compact" alt="3shmawi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3shmawi&show_icons=true&locale=en" alt="3shmawi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3shmawi&" alt="3shmawi" /></p>
 
 
 <h4 align="left">🌟 About Me 🌟</h4>
