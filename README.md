@@ -9,11 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed17925082" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed17925082?logo=twitter&style=for-the-badge" alt="mohamed17925082" /></a> </p>
 
-- 🔭 I’m currently working on [روايتي](https://github.com/3shmawi/Novels-App)
-
-- 🌱 I’m currently learning **Unit testing & Integration testing & Animation & Advanced Design Patterns...**
-
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/3shmawi?tab=repositories)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mohamed-ashmawy1)
 
@@ -21,7 +16,6 @@
 
 - 📫 How to reach me [gmail](mohamedashmawy918@gmail.com)
 
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,30 +40,4 @@
 
 <h4 align="left">🌟 About Me 🌟</h4>
 <h6 align="left">Hello, I'm Mohamed Ashmawi, a passionate Flutter developer with a relentless curiosity for exploring the world of mobile app development. As a lifelong learner, I'm continuously seeking new knowledge and skills to excel in my craft.</h6>
-<h4 align="center">====================================</h4>
-
-<h4 align="left">🚀 Flutter Developer 🚀</h4>
-<h6 align="left">With a deep love for programming and a focus on mobile app development, I found my calling in Flutter. I enjoy creating sleek and interactive user interfaces and building seamless cross-platform applications that leave a lasting impact on users.</h6>
-
-<h4 align="center">====================================</h4>
-<h4 align="left">📱 Embracing Mobile Technology 📱</h4>
-<h6 align="left">I believe in the transformative power of mobile technology. Embracing the fast-paced world of mobile app development allows me to stay at the forefront of innovation and contribute to shaping the future of digital experiences.</h6>
-
-<h4 align="center">====================================</h4>
-<h4 align="left">🎨 The Art of Creation 🎨</h4>
-<h6 align="left">Beyond the lines of code, I'm an artist at heart. I find joy in crafting elegant and visually appealing designs that not only function flawlessly but also delight users with their aesthetics.</h6>
-<h4 align="center">====================================</h4>
-<h4 align="left">🤝 Collaboration and Growth 🤝</h4>
-<h6 align="left">As a team player, I thrive in collaborative environments where ideas flow freely, and innovation is encouraged. I cherish the opportunity to learn from others and grow both personally and professionally.</h6>
-
-<h4 align="center">====================================</h4>
-<h4 align="left">🌍 Adventuring Through Tech 🌍</h4>
-<h6 align="left">In this ever-changing tech landscape, I'm an explorer at heart, always eager to embrace new challenges and tackle complex problems with creativity and determination.</h6>
-
-<h4 align="center">====================================</h4>
-<h4 align="left">📚 Learning is a Journey 📚</h4>
-<h6 align="left">I understand that learning is a lifelong journey, and I'm committed to honing my skills, staying up-to-date with industry trends, and continuously pushing the boundaries of what I can achieve.</h6>
-
-Let's connect and embark on this exciting journey of mobile app development together!
-</h6>
 <h4 align="center">====================================</h4>
