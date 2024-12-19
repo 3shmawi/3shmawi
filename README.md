@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/mohamed17925082" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed17925082?logo=twitter&style=for-the-badge" alt="mohamed17925082" /></a> </p>
 
 
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mohamed-ashmawy1)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/3shmawiii/)
 
 - 💬 Ask me about **Flutter & Dart & Firebase & Restful Api**
 
