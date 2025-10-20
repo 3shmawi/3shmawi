@@ -5,12 +5,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=3shmawi&label=Profile%20views&color=0e75b6&style=flat" alt="3shmawi" /> 
 </p>
-
-<p align="left">
-  <a href="https://github.com/3shmawi" target="_blank">
-    <img src="https://img.shields.io/github/followers/3shmawi?logo=github&style=for-the-badge" alt="3shmawi" />
-  </a>
-</p>
+ 
 
 -  I regularly write articles on [LinkedIn](https://www.linkedin.com/in/3shmawiii/)  
 -  Ask me about **Flutter · Dart · Firebase · REST APIs · FlutterFlow · Docker · Serverless**  
