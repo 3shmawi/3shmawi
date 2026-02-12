@@ -92,17 +92,141 @@ Beyond code, I’m a curious problem-solver and creative thinker, always explori
  
 ---
 
-### Recent Projects / Apps I’ve Worked On
+---
 
-| Project | Description | Links |
-|----------|--------------|--------|
-| **Athlepad** | A comprehensive **sports coaching and athlete training management app** built with **Flutter**. Designed to bridge the gap between coaches and athletes—especially in racquet sports like **padel, tennis, and squash**—it enables workout tracking, performance insights, and communication in one seamless ecosystem. | [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://appstoreconnect.apple.com/apps/6748643854](https://apps.apple.com/eg/app/athlepad/id6748643854) [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.athlepad.app) |
-| **Stellar Trust** | A **360° trust and check-in platform** for the hospitality industry. It automates guest identity verification, payment handling (insurance/deposit), and tourist tax collection for vacation rentals and hotels. Worked as a **Software Engineer** on the **check-in and payment modules** using **Stripe, Stripe Connect, and Chargebee**, with **Nuxt.js frontend** and **Firebase + Cloud Functions backend**. | [Website](https://stellar-trust.com/en/) |
-| **COVER** | The **eco-friendly gift-tracking app** that turns gift-giving into a sustainable experience. Built using **Flutter** and **Firebase**, it lets users link and follow reusable fabric wraps via **NFC tags**, track their environmental impact, and see where trees are planted for each gift. Contributed as a **Software Engineer**, adding new features, managing migrations, and fixing performance bugs. | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=earth.cover.app) [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/cover-app/id6444696704) |
-| **روايتي** | A **novel-reading and audio storytelling app** offering PDFs, text chapters, and voice-acted audio books. Users can follow narrators, comment on chapters, and enjoy an intuitive, distraction-free interface. Worked as a **Full-Stack Flutter Developer**, handling both **frontend and Firebase backend** integration. | [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://testflight.apple.com/join/JAaAg4Q6) [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.novel.dar) |
-| **Nabbihny** | A daily **remembrance and salawat (blessings)** platform. Built to help users organize adhkar, schedule flexible alerts, and share daily messages in a secure, ad-free environment. Includes **cloud sync, multilingual support**, and Friday-only global salawat feature. | [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://appstoreconnect.apple.com/apps/](https://apps.apple.com/eg/app/athlepad/id6748109094) [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.ashmawy.nabbihny) |
-| **Quoridor** | A **strategic board game** where players race to reach the opposite side while placing walls to block opponents. Developed with the **Flame Game Engine**, featuring AI opponents, smooth animations, and multiplayer support. Available on Android, iOS, and Web. | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.MoRe_H.quoridor) [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://appstoreconnect.apple.com/apps/](https://apps.apple.com/eg/app/athlepad/id6752514464) [Website](https://quoridor-290f6.web.app/) |
-| **V12** | A **comprehensive Flutter-based electric vehicle marketplace** that serves as a modern platform for buying, selling, and discovering electric vehicles. The app is designed with a clean architecture and feature-based organization, supporting both Arabic and English languages. | [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://testflight.apple.com/join/NkrH3z9t) [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.electriccar.marketplace) |
+## 🚀 Recent Projects / Apps I’ve Worked On
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="center">Links</th>
+  </tr>
+
+  <!-- Athlepad -->
+  <tr>
+    <td><strong>Athlepad</strong></td>
+    <td>
+      Sports coaching & athlete training management platform built with <strong>Flutter</strong>.
+      Supports padel match flows, QR-based court video access, highlights, and coach review tools.
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/eg/app/athlepad/id6748643854">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.athlepad.app">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Stellar Trust -->
+  <tr>
+    <td><strong>Stellar Trust</strong></td>
+    <td>
+      A 360° trust & check-in platform for hospitality. Built check-in + payment modules using
+      <strong>Stripe, Stripe Connect, Chargebee</strong> with <strong>Nuxt.js</strong> and
+      <strong>Firebase + Cloud Functions</strong>.
+    </td>
+    <td align="center">
+      <a href="https://stellar-trust.com/en/">🌐 Website</a>
+    </td>
+  </tr>
+
+  <!-- COVER -->
+  <tr>
+    <td><strong>COVER</strong></td>
+    <td>
+      Eco-friendly gift-tracking app built with <strong>Flutter</strong> and <strong>Firebase</strong>.
+      Supports NFC tags, environmental impact tracking, and feature development + performance fixes.
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/eg/app/cover-app/id6444696704">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=earth.cover.app">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- روايتي -->
+  <tr>
+    <td><strong>روايتي</strong></td>
+    <td>
+      Novel-reading & audio storytelling app (PDFs, chapters, narrated audio books).
+      Worked as a <strong>Full-Stack Flutter Developer</strong> with Firebase integration.
+    </td>
+    <td align="center">
+      <a href="https://testflight.apple.com/join/JAaAg4Q6">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.novel.dar">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Nabbihny -->
+  <tr>
+    <td><strong>Nabbihny</strong></td>
+    <td>
+      Daily remembrance & salawat platform with reminders, cloud sync, and multilingual support.
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/eg/app/athlepad/id6748109094">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.ashmawy.nabbihny">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Quoridor -->
+  <tr>
+    <td><strong>Quoridor</strong></td>
+    <td>
+      Strategic board game built with <strong>Flame Game Engine</strong>.
+      Includes AI opponents, smooth animations, and multi-platform support (Android/iOS/Web).
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/eg/app/athlepad/id6752514464">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.MoRe_H.quoridor">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://quoridor-290f6.web.app/">🌐 Website</a>
+    </td>
+  </tr>
+
+  <!-- V12 -->
+  <tr>
+    <td><strong>V12</strong></td>
+    <td>
+      Flutter-based electric vehicle marketplace with clean architecture and bilingual support (AR/EN).
+    </td>
+    <td align="center">
+      <a href="https://testflight.apple.com/join/NkrH3z9t">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.electriccar.marketplace">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+---
+<p><strong>⭐ If you like my work, consider giving a star to my repositories!</strong></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"  style="width: 100%;"/>
 
-<p><strong>⭐ If you like my work, consider giving a star to my repositories!</strong></p>
