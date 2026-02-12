@@ -15,13 +15,9 @@
 
 ### 🌟 About Me
 
-Hello! I’m Mohamed Ashamwy, a Flutter developer and software engineer with over 4 years of experience in building seamless, high-performance applications.
-I’m passionate about crafting clean, scalable architectures and turning ideas into beautiful, functional digital products.
+Senior Flutter Engineer with extensive experience building scalable, high-performance mobile applications across complex product ecosystems. Strong background in architecture design, real-time systems, and performance optimization, with hands-on expertise in Flutter, state management patterns, backend integrations, and DevOps workflows.
 
-My journey spans across mobile, web, and backend development, with hands-on experience in Firebase, Clean Architecture, MVVM, BLoC, and Riverpod.
-I enjoy bridging the gap between design and engineering, creating apps that don’t just work well — they feel right.
-
-Beyond code, I’m a curious problem-solver and creative thinker, always exploring new technologies, from AI-powered experiences to real-time computer-vision and sports-tech solutions like AthlePad.
+Experienced in leading technical decisions, designing clean architectures, and delivering production-grade solutions — from consumer-facing apps to real-time game systems built with Flame Engine. Passionate about writing maintainable code, optimizing performance, and transforming product ideas into reliable, scalable software systems.
  
 ---
 ### 🛠️ Languages & Tools  
