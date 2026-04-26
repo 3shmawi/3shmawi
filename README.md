@@ -56,6 +56,25 @@ Experienced in leading technical decisions, designing clean architectures, and d
     <th align="center">Links</th>
   </tr>
 
+  <!-- Raw Chemical Show -->
+  <tr>
+    <td><strong>Raw Chemical Show</strong></td>
+    <td>
+      A dedicated B2B e-commerce and networking platform for the chemical industry. 
+      Streamlines wholesale ordering, product showcases, and business-to-business communications.
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/eg/app/raw-chemical-show/id6758881907">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/>
+      </a>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.nullex.b2b">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  
   <!-- Athlepad -->
   <tr>
     <td><strong>Athlepad</strong></td>
