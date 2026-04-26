@@ -21,71 +21,28 @@ Experienced in leading technical decisions, designing clean architectures, and d
  
 ---
 ### 🛠️ Languages & Tools  
-<p align="left">  
-  <!-- Core -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>  
-  </a>  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>  
-  </a>  
+<table align="center">
+  <tr>
+    <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a></td>
+    <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a></td>
+    <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/></a></td>
+    <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
+    <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
+    <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a></td>
+    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
+    <td><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a></td>
+    <td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a></td>
+    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></td>
+    <td><a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/></a></td>
+    <td><a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
-  <!-- Backend -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
-  </a>  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  </a>  
-
-  <!-- Databases -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>  
-  </a>  
-
-  <!-- DevOps / Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>  
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
-  </a>  
-  <a href="https://postman.com" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
-  </a>  
-
-  <!-- Cloud / Platforms -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>  
-  </a>  
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  
-  </a>  
-
-  <!-- Design / Collaboration -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>  
-  </a>  
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>  
-  </a>  
-  <a href="https://trello.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>  
-  </a>  
-</p>
- 
 ---
 
 ---
